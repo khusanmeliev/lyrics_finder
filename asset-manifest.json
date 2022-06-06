@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lyrics_finder/static/css/main.19864bf0.css",
+    "main.js": "/lyrics_finder/static/js/main.d913adec.js",
+    "index.html": "/lyrics_finder/index.html",
+    "main.19864bf0.css.map": "/lyrics_finder/static/css/main.19864bf0.css.map",
+    "main.d913adec.js.map": "/lyrics_finder/static/js/main.d913adec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19864bf0.css",
+    "static/js/main.d913adec.js"
+  ]
+}
